@@ -1,4 +1,4 @@
-local eyes = game.Workspace:FindFirstChild("Eyes").Core
+local eyes = game.Workspace:FindFirstChild("Lookman").Core
 eyes.CFrame = eyes.CFrame * CFrame.new(0,-0.2,0)
 wait(0.001)
 eyes.CFrame = eyes.CFrame * CFrame.new(0,-0.2,0)
